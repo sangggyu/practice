@@ -1,10 +1,12 @@
+package org.example;
+
 import org.example.calculate.*;
 
 import java.util.List;
 
 public class Calculator {
 //    public static int calculate(int operand1, String operator, int operand2) {
-//        return ArithmeticOperator.calculate(operand1,operator,operand2);
+//        return org.example.ArithmeticOperator.calculate(operand1,operator,operand2);
 //    }
 
     private static final List<NewArithmeticOperator> arithmeticOperators =
